@@ -1,0 +1,10 @@
+#tictactoe td {
+    cursor: pointer;
+    font-size: 2em;
+    background-color: #f8f9fa;
+    border: 2px solid #343a40;
+}
+#restart-btn {
+    display: none;
+    margin-top: 10px;
+}
