@@ -1,0 +1,35 @@
+header{
+    text-align: center;
+}
+
+h2{
+    color: palevioletred
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1.5px solid palevioletred;
+}
+
+th, td {
+    padding: 6px;
+    text-align: left;
+}
+
+.highlight {
+    background-color: palevioletred;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: black;
+    text-decoration: underline;
+}
