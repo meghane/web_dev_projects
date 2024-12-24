@@ -1,6 +1,6 @@
 # Project 1 - Home Page
 ### Goal
-* Basic home page using HTML5 and minimal CSS (no Bootstrap yet). 
+* Basic home page using HTML5 and minimal CSS. 
 ### Topic
 * A personal web page that could serve as your online resume.
 ## Report
